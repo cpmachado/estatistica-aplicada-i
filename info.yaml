@@ -1,0 +1,11 @@
+codigo: 21041
+nome: Estatística Aplicada I
+ano_lectivo: 2023
+semestre: 1
+ano: 2
+docente: Catarina S. Nunes
+tema:
+  - nome: Introdução à Inferência Estatística
+    codigo: 1
+  - nome: Estimação Pontual
+    codigo: 2
